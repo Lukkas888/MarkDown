@@ -52,7 +52,10 @@
    - [x] Estudar Programação 
    - [x] Estudar Git/GitHub 
    - [ ] Ir para a academia 
-   - [x] Fazer a comida da semana 
+   - [x] Fazer a comida da semana
+
+##**Adicionando imagens e links**## 
+
   
 
   
