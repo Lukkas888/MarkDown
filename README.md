@@ -38,7 +38,7 @@
         
   *** 
 
-  ##** Criando listas demarcadas**## 
+  ## ** Criando listas demarcadas**
 
   * primeiro
   * segundo
@@ -47,18 +47,40 @@
 
    *** 
 
-   ##**Criando agora uma lista de tarefas**## 
+   ## **Criando agora uma lista de tarefas**
 
    - [x] Estudar Programação 
    - [x] Estudar Git/GitHub 
    - [ ] Ir para a academia 
    - [x] Fazer a comida da semana
 
-##**Adicionando imagens e links**## 
+## **Adicionando imagens e links**
 
   
+### ** Imagen Adicionada **
+  ![asset 4](https://github.com/user-attachments/assets/dac60afc-d65f-41b3-9154-2f481ed6d50c) 
 
-  
-  
-  
- 
+### **Link Criado** 
+[Nome que será impresso fica aqui ](https://www.youtube.com) 
+
+## **Criandoo tabelas** 
+
+Id | Nome | Matrículo 
+---|---|---| 
+01 | Lucas | 302011145 
+02 | Maria | 202311158 
+03 | Arthur | 12535553 
+
+## **Criando trechos de códigos** 
+
+```
+Scanner scanner = new Scanner(System.in);
+
+System.out.println("Digite aqui o seu 1º  nome );
+String nome = scanner.NextLine( " Lucas ");
+
+System.out.println("O nome do aluno é " + nome + "!!!")
+
+scanner.close(); 
+
+```
